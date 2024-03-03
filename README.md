@@ -1,6 +1,8 @@
 # Telraam-S2-Outdoor
 
-Outdoor Gehäuse für Telraam S2-Sensor
+![alt text](https://github.com/CargoBikoMeter/Telraam-S2-Outdoor/blob/main/S2-Outdoor-04-1024x768.jpg)
+
+Bauanleitung Outdoor Gehäuse für Telraam S2-Sensor
 =====================================
 
 Material:
@@ -17,8 +19,9 @@ Material:
  - 12 mm Druckausgleichsschraube Plastik (https://www.rst.eu/de/produkte/druckausgleichsloesungen/produkt/dae-pa-kunststoff/11087512-1.html?no_cache=1)
  - 4ProTec I 2X Crystal Clear klar Displayschutzfolie
   
-Zuerst wird in den Gehäusedeckel ein 40 mm Loch ausgeschnitten
- - Mittelpunkt des Loches ist mittig zur langen Seite des Gehäuses, jedoch nach unten versetzt und hat von der Unterkante einen Abstand von 70 mm und von der Oberkannte 77 mm. 
+Aufbau:
+
+Zuerst wird in den Gehäusedeckel ein 40 mm Loch ausgeschnitten. Der Mittelpunkt des Loches ist mittig zur langen Seite des Gehäuses, jedoch nach unten versetzt und hat von der Unterkante einen Abstand von 70 mm und von der Oberkannte 77 mm. 
  
 Nun wird die Glasscheibe beidseitig bündig mit Tesa-Band beklebt (den Scheibenrand frei lassen!!!), damit die Scheibe beim Einkleben mit Acrylkleber nicht schmutzig wird. Das Loch im Gehäusedeckel wird außen ebenfalls mit TESA-Band abgedeckt, damit kein Klebstoff auf die Vorderseite gelangt.
  
